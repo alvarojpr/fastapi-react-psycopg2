@@ -1,0 +1,1 @@
+# fastapi-react-psycopg2
